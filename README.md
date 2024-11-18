@@ -9,14 +9,14 @@
 Fig-1 
 ![Screenshot 2024-11-18 173611](https://github.com/user-attachments/assets/4b1fdf11-55ec-4811-8935-7cb272933a21)
 
- Fig-1 
-![Screenshot 2024-11-18 173646](https://github.com/user-attachments/assets/d45aea2f-1e73-4e6b-a112-c44d58ec941b)
+ Fig-2
+![Screenshot 2024-11-18 173646](https://github.com/user-attachments/assets/d45aea2f-1e73-4e6b-a112-c44d58ec941b)  
 
  Fig-3  
-![Screenshot 2024-11-18 173712](https://github.com/user-attachments/assets/93f93596-a179-4105-8e7f-d139ec48da2c)
+![Screenshot 2024-11-18 173712](https://github.com/user-attachments/assets/93f93596-a179-4105-8e7f-d139ec48da2c)  
 
  
-Fig-4  
+Fig-4   
 ![Screenshot 2024-11-18 173728](https://github.com/user-attachments/assets/496d47fd-02a4-4daa-be70-6402723f2743)
 
 Fig-5  
