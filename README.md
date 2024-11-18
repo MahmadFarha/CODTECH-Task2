@@ -50,7 +50,3 @@ This project involves assessing the performance of various machine learning mode
 **4.Matplotlib/Seaborn:** Used for visualizing the model evaluation results, such as plotting confusion matrices, ROC curves, and comparing the performance of different models graphically.
 
 
-
-
-
-### Technologies Used
