@@ -8,7 +8,7 @@
 ## Overview of the Project
 
 
-### Project: MODEL EVALUATION AND COMPARISON  
+### Project: Model Evaluation and Comparision
 
 ### Objective
 This project involves assessing the performance of various machine learning models using metrics such as accuracy, precision, recall, and F1 score. The goal is to compare multiple algorithms to determine the most effective model for a given dataset, optimizing predictive accuracy and computational efficiency.
