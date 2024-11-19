@@ -6,6 +6,8 @@
 **Mentor:**    
 
 ## Overview of the Project
+
+### Project: Model Evaluation and Comparision  
 Fig-1 
 ![Screenshot 2024-11-18 173611](https://github.com/user-attachments/assets/4b1fdf11-55ec-4811-8935-7cb272933a21)
 
@@ -25,7 +27,6 @@ Fig-4
 
 
 
-### Project: Model Evaluation and Comparision
 
 ### Objective
 This project involves assessing the performance of various machine learning models using metrics such as accuracy, precision, recall, and F1 score. The goal is to compare multiple algorithms to determine the most effective model for a given dataset, optimizing predictive accuracy and computational efficiency.
