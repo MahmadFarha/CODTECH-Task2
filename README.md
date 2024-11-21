@@ -3,7 +3,7 @@
 **ID:**  CT6WDS2212  
 **Domain:**  Artificial Intelligence  
 **Duration:**  October 2024 to December 2024    
-**Mentor:**    
+**Mentor:**  Muzammil Ahmed  
 
 ## Overview of the Project
 
